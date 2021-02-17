@@ -1,0 +1,20 @@
+[data-simplebar] {
+  position: absolute;
+}
+
+.simplebar-content-wrapper {
+  overflow: auto;
+}
+
+.simplebar-track.simplebar-vertical {
+  top: 0;
+  bottom: 18px;
+  margin: 0 18px 0 0;
+  width: 2px;
+  background: #000;
+}
+
+.simplebar-scrollbar {
+  width: 2px;
+  background: #9D5CD0;
+}
